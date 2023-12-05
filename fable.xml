@@ -1,6 +1,6 @@
 <fable>
 	<page>
-  <agent img 
+  <agent x = img = "1.png">
     
   </page>
 </fable>
