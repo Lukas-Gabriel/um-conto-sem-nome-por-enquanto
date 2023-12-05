@@ -1,6 +1,6 @@
 <fable>
 <page background = "paisagem 1.png">
-      <agent x = "400" y = "0" img = "1.png"/>
+      <agent x="400" y="0" img="1.png" width="42" height="42"/>
     
   </page>
 </fable>
